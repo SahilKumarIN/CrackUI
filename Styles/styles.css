@@ -110,6 +110,8 @@ button {
     margin-left: auto;
     margin-right: 30px;
     border-radius: 20px;
+
+    margin-top: 20px;
 }
 
 .desc {
@@ -176,7 +178,7 @@ button {
 
 #contact {
     min-height: 50vh;
-    background-color: #bfbed6;
+    background-color: #dcdbef;
     display: flex;
     align-items: center;
     justify-content: center;
