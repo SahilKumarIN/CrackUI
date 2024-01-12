@@ -11,9 +11,14 @@
         border-bottom-right-radius: 100px;
     }
 
+    
+
     ul > li  {
         margin: 0 10px;
+     
     }
+
+    
 
     .logo {
         font-size: 40px;
