@@ -168,6 +168,12 @@ button {
         font-size: 14px;
         margin: 10px 0;
     }
+
+    img {
+        object-fit: cover;
+        width: 120px;
+        height: 120px;
+    }
 }
 
 .event_name {
